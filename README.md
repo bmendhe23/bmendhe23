@@ -1,4 +1,4 @@
-### Hi there 👋 I am Bhushan Mendhe
+### Hi there 👋 I am [Bhushan Mendhe !](https://bhushanmendhe.netlify.com) 🙂
 
 - 🔭 I'm trying to get into Competitive Programming.
 - 🌱 I’m currently learning Data Structures, and React.
