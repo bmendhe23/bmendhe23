@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmendhe23&show_icons=true&theme=merko)
+![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmendhe23&show_icons=true&theme=buefy)
 
