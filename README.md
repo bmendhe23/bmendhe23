@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **bmendhe23/bmendhe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmendhe23&show_icons=true&theme=radical)
+![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmendhe23&show_icons=true&theme=merko)
 
