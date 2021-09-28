@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: bhushanmendhe15@gmail.com
 
-**Connect with me : ** 
+**Connect with me :** 
 
 <a href="https://www.linkedin.com/in/bhushan-mendhe-1027a1146/" target="_blank">
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
