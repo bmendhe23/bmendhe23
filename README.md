@@ -20,7 +20,7 @@
 <br>
 
 ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmendhe23&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmendhe23&layout=compact)](https://github.com/bmendhe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmendhe23&layout=compact)](https://github.com/bmendhe23/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bmendhe23&theme=buefy&hide_border=false)](https://git.io/streak-stats)
 
 
