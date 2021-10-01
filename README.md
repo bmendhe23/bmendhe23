@@ -19,8 +19,7 @@
 <br>
 <br>
 
-<img align="left" height="300px" width="60%" src="https://github-readme-stats.vercel.app/api?theme=buefy&username=bmendhe23&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Bhushan's GitHub stats"/>
-<!-- ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmendhe23&show_icons=true&theme=buefy) -->
+![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmendhe23&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmendhe23&layout=compact)](https://github.com/bmendhe/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bmendhe23&theme=buefy&hide_border=false)](https://git.io/streak-stats)
 
